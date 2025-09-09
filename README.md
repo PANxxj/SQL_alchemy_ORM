@@ -58,7 +58,7 @@ graph TB
 6. **Database** stores your data (like the actual food storage)
 7. **Alembic** manages database changes (like updating recipes and menu items)
 
-## 🚀 **Quick Start Guide**
+<!-- ## 🚀 **Quick Start Guide**
 
 **⏱️ Just want to get started? Choose your path:**
 
@@ -90,7 +90,7 @@ Database → Models → Relationships → Queries → Migrations
 Patterns → Performance → Production → Advanced Topics
     ↓  
 [Design Patterns] → [Optimization] → [Deployment] → [Expert Tips]
-```
+``` -->
 
 ---
 
